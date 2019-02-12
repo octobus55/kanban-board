@@ -1,0 +1,6 @@
+export const API_KEY = "AIzaSyANha5_vqeOU8Mkt8B8S0Xuzf-grOzRok0"
+export const AUTH_DOMAIN = "kanban-board-e575f.firebaseapp.com"
+export const DATABASE_URL = "https://kanban-board-e575f.firebaseio.com"
+export const PROJECT_ID = "kanban-board-e575f"
+export const STORAGE_BUCKET = "kanban-board-e575f.appspot.com"
+export const MESSAGING_SENDER_ID = "175137120663"
